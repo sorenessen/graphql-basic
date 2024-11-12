@@ -51,5 +51,5 @@ server.start(() =>{
 // console.log(subtract(10, 2))
 // console.log(message)
 // console.log(name)
-// console.log(myCurrentLocation)
+// console.log(myCurren tLocation)
 // console.log(getGreeting('Jessica'))
