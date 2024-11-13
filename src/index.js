@@ -40,7 +40,7 @@ const resolvers = {
             return 25.00
         },
         releaseYear() {
-            return 1977
+            return 1984
         },
         rating() {
             return null
